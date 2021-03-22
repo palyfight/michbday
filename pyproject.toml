@@ -2,7 +2,8 @@
 name = 'michbday'
 version = '1.0.0'
 description = 'Wishing mich a happy bday'
-authors = 'palyfight chrisbama92@gmail.com'
+authors = ['Chris Bama <chrisbama92@gmail.com>']
+license = 'Propietary'
 
 [tool.poetry.dependencies]
 python = '^3.9'
