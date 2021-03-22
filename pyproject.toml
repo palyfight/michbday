@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "michbday"
-version = "1.0.0"
+version = "2.0.0"
 description = "Wishing mich a happy bday"
 authors = ["Chris Bama <chrisbama92@gmail.com>"]
 license = "Proprietary"
@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = '^3.9'
-art = '~5.1'
+art = '5.1'
 
 [build-system]
 requires = ["poetry-core"]
