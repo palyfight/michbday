@@ -1,3 +1,5 @@
+# https://python-poetry.org/docs/pyproject/
+
 from art import *
 from time import sleep
 
