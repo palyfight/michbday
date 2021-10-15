@@ -6,7 +6,7 @@ from time import sleep
 
 def message(name):
     for _ in range(30):
-        print(text2art("Happy Birthday {}".format(name), font="rand", decoration="heart4"))
+        print(text2art("Bonne Fete {}".format(name), font="rand", decoration="heart4"))
         sleep(1)
 
 
