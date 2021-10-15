@@ -11,4 +11,4 @@ def message(name):
 
 
 if __name__ == '__main__':
-    message('Michele')
+    message('Mich')
